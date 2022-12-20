@@ -1,4 +1,9 @@
-.App {
+.App li {
+  list-style-type: none;
+}
+
+.App form input {
+  margin-left: 150 px;
 }
 
 .App-logo {
